@@ -1,4 +1,4 @@
 window.onload=()=>{
-    let asdfg
+    let asdfg;
     alert("hello!")
 }
